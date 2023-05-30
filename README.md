@@ -1,9 +1,9 @@
 # Ujian Tengah Semester Web Programming
 
-Nama : Jefferson Johan
-Kelas : PPTI 12
-NIM : 2502041224
-Dosen : Anderies, B.Eng, S.Kom, M.Kom
+Nama : Jefferson Johan <br>
+Kelas : PPTI 12 <br>
+NIM : 2502041224 <br>
+Dosen : Anderies, B.Eng, S.Kom, M.Kom <br>
 
 Cara menjalankan:
 - Download Zip/ Clone
